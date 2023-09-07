@@ -1,6 +1,6 @@
 import "../templates/index.html";
 import "../sass/common.scss";
-import "reset.css";
+import "reset-css";
 
 import updateArticlesMarkup from "./update-articles-markup";
 import fetchArticles from "./fetch-articles";

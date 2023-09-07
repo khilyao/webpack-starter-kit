@@ -75,5 +75,6 @@ module.exports = {
     },
     port: "4444",
     open: true,
+    hot: true,
   },
 };
