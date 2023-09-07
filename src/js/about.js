@@ -1,3 +1,3 @@
-import "../sass/common.scss";
+import "../sass/main.scss";
 
 console.log("afdsfs");
